@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+.godot/
+*.egg-info/
+build/
+dist/
+*.log
+*.patch
+.DS_Store
